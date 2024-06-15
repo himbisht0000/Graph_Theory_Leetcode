@@ -26,6 +26,8 @@ public:
                 if(x_axis < 0 || x_axis >= grid.size() || y_axis < 0 || 
                    y_axis >= grid[0].size() )
                 {
+                    // if their is element one edge then this 
+                    // is not considered as answer ever
                     return_value = 0;
                     continue;
                 }
@@ -47,6 +49,7 @@ public:
     int numEnclaves(vector<vector<int>>& grid) 
     {
         int count = 0;
+        // find all the islands and return number of once in each island . Island where even if single one is on the edge then return zero 
         for(int i = 0 ; i < grid.size(); i++)
         {
             for(int j = 0; j < grid[i].size(); j++)
