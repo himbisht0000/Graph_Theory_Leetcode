@@ -6,6 +6,7 @@
 <a href="https://leetcode.com/problems/01-matrix/description/?envType=study-plan-v2&envId=graph-theory">01 Matrix</a><br>
 <a href="https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/?envType=study-plan-v2&envId=graph-theory">All Node Distance K in Binary tree</a><br>
 <a href="https://leetcode.com/problems/number-of-islands/description/?envType=study-plan-v2&envId=graph-theory">Number of Islands</a><br>
-<a href="https://leetcode.com/problems/number-of-enclaves/description/?envType=study-plan-v2&envId=graph-theory">Number of Enclave</a><br>
+<a href="https://leetcode.com/problems/number-of-closed-islands/description/?envType=study-plan-v2&envId=graph-theory">Number of Closed Island</a><br>
+
 
 
